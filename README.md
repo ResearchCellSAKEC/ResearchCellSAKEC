@@ -1,17 +1,21 @@
-### Hi there 👋
-### This page is under construction!
-
-<!--
-**ResearchCellSAKEC/ResearchCellSAKEC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align='right' width='150px' height='150px' src='https://avatars.githubusercontent.com/u/111384951?v=4'>
+<h1 align="center"> Research Cell Projects </h1>
+<br>
+<h3>🔴 Surface Modification Technologies Pvt Ltd </h3>
+<div>
+	<details>
+		<summary>Project List Under SMT</summary>
+			<a href='https://github.com/ruskinwadia/SMT_project'><code>Measurement using Computer Vision</code></a>
+		<br>
+			<a href='https://github.com/omkarpyc/SMT_thicknessWear_code'><code>Thickness and Wear Calculation</code></a>
+		<br>
+			<a href='https://github.com/omkarpyc/SMT_pvd_code'><code>PVD Coating Simulation</code></a>
+	</details>
+</div>
+<br>
+<h3>🔴 Research Cell </h3>
+<details>
+	<summary>Project List Under Research Cell</summary>
+	<a href='https://www.shahandanchor.com/VLab/'><code>Vlabs</code></a>
+	<br>
+</details>
