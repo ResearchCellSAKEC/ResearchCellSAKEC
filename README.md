@@ -7,7 +7,7 @@ Welcome to the official Research Cell SAKEC Github Page! The homepage for all pr
 	<a href = "https://www.shahandanchor.com/research/"> <img src="socials/RC logo.png" alt="RC_Web" height="40" style="vertical-align:top; margin:4px"> </a>
 	<a href = "https://www.linkedin.com/showcase/research-cell-sakec/"> <img src="socials/linkedin.png" alt="RC_Linkedin" height="40" style="vertical-align:top; margin:4px"> </a>
 	<a href = "https://www.instagram.com/research_sakec/?utm_medium=copy_link"> <img src="socials/instagram.png" alt="RC_Instagram" height="40" style="vertical-align:top; margin:4px"> </a>
-	<a href = "https://www.shahandanchor.com/home/"> <img src="socials/sakec.png" alt="SAKEC_Web" height="40" style="vertical-align:top; margin:4px"> </a>
+	<a href = "https://www.shahandanchor.com/home/"> <img src="socials/SAKEC logo.png" alt="SAKEC_Web" height="40" style="vertical-align:top; margin:4px"> </a>
 	
 </p>
 
