@@ -50,5 +50,5 @@ Welcome to the official Research Cell SAKEC Github Page! The homepage for all pr
 </div>
 <br>
 <div>
-Page made by <a href='https://github.com/TechBoyy6'><code>Moiz</code></a> and <a href='https://github.com/JAS-JPG'><code>Jasjyot</code></a>
+Page made by <a href='https://github.com/TechBoyy6'><code>Moiz</code></a>! and <a href='https://github.com/JAS-JPG'><code>Jasjyot</code></a>!
 </div>
