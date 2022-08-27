@@ -2,14 +2,13 @@
 <h1 align="center"> Research Cell SAKEC </h1>
 Welcome to the official Research Cell SAKEC Github Page! The homepage for all projects under Research Cell. You can find documentations and source code for projects.  place where you will find documentations and codes for any of our projects. Feel free to reach out to us at research@sakec.ac.in , for any queries regarding the projects.
 
-<h2>Find us around the Web:</h2>
-<p>
+<section>
+	<h3>Find us around the Web:</h3>
 	<a href = "https://www.shahandanchor.com/research/"> <img src="socials/RC logo.jpg" alt="RC_Web" height="40" style="vertical-align:top; margin:4px"> </a>
 	<a href = "https://www.linkedin.com/showcase/research-cell-sakec/"> <img src="socials/linkedin.png" alt="RC_Linkedin" height="40" style="vertical-align:top; margin:4px"> </a>
 	<a href = "https://www.instagram.com/research_sakec/?utm_medium=copy_link"> <img src="socials/instagram.png" alt="RC_Instagram" height="40" style="vertical-align:top; margin:4px"> </a>
 	<a href = "https://www.shahandanchor.com/home/"> <img src="socials/SAKEC logo.png" alt="SAKEC_Web" height="40" style="vertical-align:top; margin:4px"> </a>
-	
-</p>
+</section>
 
 
 <br>
