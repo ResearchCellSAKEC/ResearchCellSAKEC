@@ -4,7 +4,7 @@ Welcome to the official Research Cell SAKEC Github Page! The homepage for all pr
 
 <h2>Find us around the Web:</h2>
 <p>
-	<img src="socials/instagram.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+	<a href = "https://www.instagram.com/research_sakec/?utm_medium=copy_link"> <img src="socials/instagram.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
 </p>
 
 
