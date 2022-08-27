@@ -1,6 +1,12 @@
 <img align='right' width='150px' height='150px' src='https://avatars.githubusercontent.com/u/111384951?v=4'>
-<h1 align="center"> Research Cell Projects </h1>
-Welcome to SAKEC Research Cell's Github Page! This is the place where you will find documentations and codes for any of our projects.Feel free to contact at research@sakec.ac.in , for any queries regarding the projects.
+<h1 align="center"> Research Cell SAKEC </h1>
+Welcome to the official Research Cell SAKEC Github Page! The homepage for all projects under Research Cell. You can find documentations and source code for projects.  place where you will find documentations and codes for any of our projects. Feel free to reach out to us at research@sakec.ac.in , for any queries regarding the projects.
+
+<h2>Find us around the Web:</h2>
+<p>
+	<img src="socials/instagram.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+</p>
+
 
 <br>
 <h3>🔴 Surface Modification Technologies Pvt Ltd </h3>
