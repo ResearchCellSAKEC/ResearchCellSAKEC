@@ -1,6 +1,9 @@
 <img align='right' width='150px' height='150px' src='https://avatars.githubusercontent.com/u/111384951?v=4'>
 <h1 align="center"> Research Cell SAKEC </h1>
-Welcome to the official Research Cell SAKEC Github Page! The homepage for all projects under Research Cell. You can find documentations and source code for projects.  place where you will find documentations and codes for any of our projects. Feel free to reach out to us at research@sakec.ac.in , for any queries regarding the projects.
+Welcome to the official Research Cell SAKEC Github Page! The homepage for all projects under Research Cell.<br>
+SAKEC Research Cell is a group of students and faculty dedicated to developing innovative technology solutions.<br>
+Our goal is to use technology to solve real-world problems and to make a positive impact on society.<br>
+Feel free to reach out to us at <a href="mailto:research@sakec.ac.in"><code>research@sakec.ac.in</code></a> for any queries or collaboration.
 
 <section>
 	<h3>Find us around the Web:</h3>
@@ -47,6 +50,18 @@ Welcome to the official Research Cell SAKEC Github Page! The homepage for all pr
 		<summary>Project List Under Skinzy</summary>
 			<a href='https://www.shahandanchor.com/'><code>Ml model for Doctor On Click</code></a>
 	</details>
+</div>
+<br>
+<div>
+	<h3>👨‍💻 Languages & Technologies Students Gained Exposure on</h3>
+
+```json
+{
+   "Languages": ["Python", "C", "Flask", "Django", "JavaScript", "Reactjs", "Flutter", "php", "Java"],
+   "Databases": ["Mongodb", "Firebase", "Mysql", "PostgresSQL"],
+   "Tools": ["PostMan", "VSCode", "Photoshop", "Android Studio", "Docker", "Figma"]
+}
+```
 </div>
 <br>
 <div>
